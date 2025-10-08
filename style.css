@@ -12,7 +12,8 @@ body p img {
 }
 
 body p {
-  color:rgba(178, 34, 82, 0.64)
+    font-size: large;
+  color:rgba(54, 4, 4, 0.64)
 }
 
 .keyword {
